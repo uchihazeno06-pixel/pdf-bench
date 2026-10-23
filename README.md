@@ -1,6 +1,6 @@
 # PDF Bench
 
-A small, private PDF toolkit that runs entirely in your browser. No uploads, no accounts, no server — your files never leave your device.
+A small, private PDF toolkit that runs entirely in your browser. No uploads, no accounts, no server, your files never leave your device.
 
 ---
 
